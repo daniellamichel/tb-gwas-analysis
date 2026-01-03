@@ -32,8 +32,6 @@ Identified potential variants linked to drug resistance.
 
 🔧 Requirements
 
-Python (>=3.7)
-
 Libraries: numpy, pandas, scipy, sklearn, matplotlib, statsmodels
 
 🎯 Conclusion
